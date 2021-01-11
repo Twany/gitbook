@@ -38,7 +38,7 @@
 
 #### 例子1
 
-![](.gitbook/assets/image%20%2854%29.png)
+![](.gitbook/assets/image%20%2855%29.png)
 
 按位与出来的 192.168.1.0，其中192.168.1是网络ID，0是主机ID，能有`256 - 2`个主机
 
@@ -54,7 +54,9 @@
 * 0.0 是主机ID（主机位全0为网段，全1代表广播地址）
   * 所有，能有`256*256 - 2`个主机
 
-![](.gitbook/assets/image%20%2853%29.png)
+![](.gitbook/assets/image%20%2854%29.png)
 
 ##  IP地址分类
+
+![&#x8BE6;&#x7EC6;&#x7684;&#x5206;&#x7C7B;&#xFF0C;&#x767E;&#x5EA6;&#x5373;&#x53EF;](.gitbook/assets/image%20%2853%29.png)
 
