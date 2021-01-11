@@ -10,7 +10,7 @@ description: 主要应用 Cisco Packet Tracer
 
 ## 通讯基础知识
 
-![](.gitbook/assets/image%20%2842%29.png)
+![](.gitbook/assets/image%20%2843%29.png)
 
 ## 两台主机网线直连
 
@@ -46,7 +46,7 @@ description: 主要应用 Cisco Packet Tracer
 
 ##  多主机——集线器（同轴电缆升级版）
 
-![](.gitbook/assets/image%20%2843%29.png)
+![](.gitbook/assets/image%20%2844%29.png)
 
 ![](.gitbook/assets/image%20%2821%29.png)
 
@@ -104,7 +104,7 @@ description: 主要应用 Cisco Packet Tracer
 
 ## 多主机——路由器（可跨网段）
 
-![](.gitbook/assets/image%20%2844%29.png)
+![](.gitbook/assets/image%20%2845%29.png)
 
 * 不同网段使用路由器（也可以相同网段，没必要）
 * 相同网段交换器
@@ -121,7 +121,9 @@ description: 主要应用 Cisco Packet Tracer
 
 
 
-    ![](.gitbook/assets/image%20%2845%29.png)
+    ![](.gitbook/assets/image%20%2847%29.png)
 
   * 路由器的作用，就是将左侧192.168.1.1和右侧192.168.2.1不同网段相互连接
+
+总结：路由器用来隔绝广播域，使用时需要配置接线对应口的网关，同时还要配置与之相怜的计算机的IP和网关与之同处统一网段（网关要相同，网段在同一网段）；路由器具有保存功能，保存连接的计算机的MAC地址和IP地址
 
