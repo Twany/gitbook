@@ -1,6 +1,6 @@
 # 序言
 
-{% hint style="info" %}
+{% hint style="success" %}
 **`本书是关于小码哥在腾讯课堂上讲解的《网络协议从入门到底层原理》的笔记梳理`**
 {% endhint %}
 
